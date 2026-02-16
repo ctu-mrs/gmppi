@@ -14,7 +14,7 @@
             </h8>
         </p>
         <a href='https://arxiv.org/abs/2510.12924'><img src='.misc/arXiv-gmppi.svg' alt='arxiv'></a>
-        <a href='youtube.com/watch?v=HEo4MQNX6xc&feature=youtu.be'><img src='.misc/youtube.svg' alt='arxiv'></a>
+        <a href='https://youtu.be/HEo4MQNX6xc?si=cxWlYuL3HKGSVCiY'><img src='.misc/youtube.svg' alt='arxiv'></a>
     <br>
     <br>
 </div>
